@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Arun Pallath</title>
+    <link>https://arunpallath.github.io/arun_pallath_portfolio_new/post/</link>
+    <description>Recent content in Projects on Arun Pallath</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://arunpallath.github.io/arun_pallath_portfolio_new/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instacart Market Basket Analysis</title>
+      <link>https://arunpallath.github.io/arun_pallath_portfolio_new/post/project-1/</link>
+      <pubDate>Wed, 09 Jun 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://arunpallath.github.io/arun_pallath_portfolio_new/post/project-1/</guid>
+      <description>What is Instacart? Instacart operates a grocery delivery and pick-up service in the United States and Canada. It operates in over 5,500 cities and its customers place orders through both website and mobile apps. Instacart partners with over 350 retailers that have more than 25K grocery stores. After the customer places their orders through the app, personal shoppers review your order and do the in-store shopping and delivery for you.</description>
+    </item>
+    
+    <item>
+      <title>Boston Housing Price Prediction</title>
+      <link>https://arunpallath.github.io/arun_pallath_portfolio_new/post/project-4/</link>
+      <pubDate>Tue, 11 May 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://arunpallath.github.io/arun_pallath_portfolio_new/post/project-4/</guid>
+      <description>Predicting Boston Neighborhood Housing Prices using various Data Mining Techniques - Linear Regression, Cross Validation, Regression Tree, Bagging, Random Forest, Boosting
+Boston housing data is a data set in package MASS. The data set has 506 rows and 14 columns. This report provides an analysis and evaluation of the factors affecting the median value of the owner-occupied homes in the suburbs of Boston. The in-built data set of Boston Housing Data in package MASS is used for this analysis and various factors about the structural quality, neighbourhood, accessibility, and air pollution such as per capita crime rate by town, proportion of non-retail business acres per town, index of accessibility to radial highways etc are considered for this study.</description>
+    </item>
+    
+    <item>
+      <title>Predicting chances of a Loan Default using Data Mining</title>
+      <link>https://arunpallath.github.io/arun_pallath_portfolio_new/post/project-2/</link>
+      <pubDate>Mon, 10 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://arunpallath.github.io/arun_pallath_portfolio_new/post/project-2/</guid>
+      <description>“Fools say that they learn by experience. I prefer to profit by others experience.” - Otto Von Bismarck
+In this project, we will use a standard imbalanced machine learning dataset referred to as the “German Credit” dataset or simply “German.” The german credit dataset describes financial and banking details for customers and the task is to determine whether the customer is good or bad. The assumption is that the task involves predicting whether a customer will pay back a loan or credit.</description>
+    </item>
+    
+    <item>
+      <title>Time Series Forecasting of per capita disposable Income</title>
+      <link>https://arunpallath.github.io/arun_pallath_portfolio_new/post/project-3/</link>
+      <pubDate>Sat, 01 May 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://arunpallath.github.io/arun_pallath_portfolio_new/post/project-3/</guid>
+      <description>A time series study of the per capita disposable income in Japan during the period of 1961 through 1982 was carried out. Using SARIMA time series modelling , different models were developed and compared using various performance characteristics like AIC and BIC. The residual diagnostics were carried out using Ljung-Box test.
+A forecasting model was developed which was used to predict the per capita disposable income.
+You can view the full project by clicking here.</description>
+    </item>
+    
+  </channel>
+</rss>
